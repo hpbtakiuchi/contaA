@@ -3,3 +3,5 @@ Alteração 1 feita pela conta A
 Alteração 2 feita pela conta B
 
 Alteração 3 feita pela conta A
+
+Alteração 4 feita pela conta B
